@@ -19,16 +19,42 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9faa5b49-2c16-4db5-8a96-65f91c4d84e9" name="Default Changelist" comment="1234" />
+    <list default="true" id="9faa5b49-2c16-4db5-8a96-65f91c4d84e9" name="Default Changelist" comment="1234">
+      <change afterPath="$PROJECT_DIR$/../Study/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/programmers_school_coding_test/2021 Dev-Matching/다단계 칫솔 판매.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/programmers_school_coding_test/2021 Dev-Matching/로또의 최고 순위와 최저 순위.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/programmers_school_coding_test/2021 Dev-Matching/행렬 테두리 회전하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/programmers_school_coding_test/CodingTestHighScoreKit/DFS BFS/게임 맵 최단거리.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/programmers_school_coding_test/CodingTestHighScoreKit/DFS BFS/네트워크.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/programmers_school_coding_test/CodingTestHighScoreKit/DFS BFS/단어 변환.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/programmers_school_coding_test/CodingTestHighScoreKit/DFS BFS/여행경로.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/programmers_school_coding_test/CodingTestHighScoreKit/DFS BFS/타겟 넘버.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/programmers_school_coding_test/CodingTestHighScoreKit/동적계획법/N으로 표현.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/programmers_school_coding_test/CodingTestHighScoreKit/동적계획법/도둑질.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/programmers_school_coding_test/CodingTestHighScoreKit/동적계획법/사칙연산.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/programmers_school_coding_test/CodingTestHighScoreKit/동적계획법/정수 삼각형.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/programmers_school_coding_test/CodingTestHighScoreKit/이분탐색/징검다리.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/programmers_school_coding_test/Summer/Winter Coding(~2018)/기지국 설치.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/programmers_school_coding_test/Summer/Winter Coding(~2018)/영어 끝말잇기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/programmers_school_coding_test/Summer/Winter Coding(~2018)/예산.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/programmers_school_coding_test/Summer/Winter Coding(~2018)/점프와 순간 이동.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pytorch/.idea/pytorch.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/PycharmProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/PycharmProjects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Study/chatgpt와 협업으로 만든 calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/programmers_school_coding_test/2021kakao/순위 검색.py" beforeDir="false" afterPath="$PROJECT_DIR$/../project/programmers_school_coding_test/2021kakao/순위 검색.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="2Wbj3t5ns55U7lRxdGBKVdAOcJg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,6 +62,35 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Study/test.py" />
+  </component>
+  <component name="RunManager">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Jupyter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Study" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Study/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -67,6 +122,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="1234" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="903" y="304" key="FileChooserDialogImpl" timestamp="1697102221169">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="903" y="304" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1697102221169" />
+    <state width="1326" height="247" key="GridCell.Tab.0.bottom" timestamp="1697115720986">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1326" height="247" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1697115720986" />
+    <state width="1326" height="247" key="GridCell.Tab.0.center" timestamp="1697115720986">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1326" height="247" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1697115720986" />
+    <state width="1326" height="247" key="GridCell.Tab.0.left" timestamp="1697115720986">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1326" height="247" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1697115720986" />
+    <state width="1326" height="247" key="GridCell.Tab.0.right" timestamp="1697115720986">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1326" height="247" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1697115720986" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1697008187324">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
