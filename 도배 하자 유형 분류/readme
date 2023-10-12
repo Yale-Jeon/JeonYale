@@ -21,3 +21,5 @@ Dataset Info.
     sample_submission.csv [제출양식]
     id : 평가 샘플 고유 id
     label : 예측한 도배 하자 Class
+
+# Train, Test 용량제한 문제로 업로드 X
